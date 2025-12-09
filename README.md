@@ -37,13 +37,6 @@ Gosto de transformar ideias em código e sempre estou aprendendo alguma linguage
 
 <br>
 
-<!-- Linguagens Mais Utilizadas -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K00LDZN&layout=compact&theme=tokyonight" />
-</p>
-
-<br>
-
 <!-- Snake Animation -->
 ## 🐍 Contribution Snake
 
