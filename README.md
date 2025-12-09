@@ -1,29 +1,76 @@
-## Olá, eu sou o K00LD, programador iniciante com altos objetivos.
+<!-- Banner Principal -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:00d9ff&height=250&section=header&text=K00LDZN&fontSize=65&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="K00LD-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="K00LD-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="K00LD-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="K00LD-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="K00LD-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="K00LD-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="K00LD-GDScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gdscript/gdscript-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto: willianconceicao2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<br>
+
+<!-- Apresentação -->
+## 👋 Bem-vindo ao meu GitHub!
+
+Eu sou **K00LDZN**, um estudante apaixonado por programação, tecnologia, jogos, design e criação de sistemas.  
+Gosto de transformar ideias em código e sempre estou aprendendo alguma linguagem nova ou criando algo maluco — faz parte da jornada.
+
+<br>
+
+<!-- Ícones de Tecnologias -->
+## 🚀 Tecnologias que uso e estudo
+
+<p align="left">
+  <!-- Java -->
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <!-- JavaScript -->
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <!-- TypeScript -->
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <!-- HTML -->
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <!-- CSS -->
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <!-- Node.js -->
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <!-- GDScript -->
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+  <!-- Python -->
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</p>
+
+<br>
+
+<!-- Atividades do GitHub -->
+## 📊 Minhas estatísticas no GitHub
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=K00LDZN&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=K00LDZN&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=K00LDZN&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=K00LDZN&show_icons=true&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=K00LDZN&show_icons=true" />
 </picture>
+
+<br>
+
+<!-- Linguagens Mais Utilizadas -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K00LDZN&layout=compact&theme=tokyonight" />
+</p>
+
+<br>
+
+<!-- Snake Animation -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<br>
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:6a00ff&height=150&section=footer" />
+</p>
